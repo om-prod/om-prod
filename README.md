@@ -4,7 +4,7 @@ I like creating systems now, rather than before which was games -- though I stil
 rather than programming language which is **Japanese**.. though by the time I'm writing this, my Japanese may not be that good yet -- I'll see in the next years to come.
 
 ### Programming Languages
-- __Python__ (*2023-present*); total ammature.
+- __Python__ (*2023-present*); total amateur.
 - __Java__ (*2024-2024*); it was for high-school.
 - __C++__ (*Just Started*); on the process of learning it for college.
 
