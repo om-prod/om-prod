@@ -1,5 +1,5 @@
 ### About/Me
-Hello, I'm Nyuro (*Used to be om-prod*), a freshmen **BSIT Student** that has **~4 years of programming experience** (*Most of the time, I stopped so it's an approximate year*).
+Hello, I'm Nyuro (*Also om-prod*), a freshmen **BSIT Student** that has **~4 years of programming experience** (*Most of the time, I stopped so it's an approximate year*).
 I like creating systems now, rather than before which was games -- though I still make games but they're the simplest of them all; Also, learning a spoken language
 rather than programming language which is **Japanese**.. though by the time I'm writing this, my Japanese may not be that good yet -- I'll see in the next years to come.
 
