@@ -1,5 +1,5 @@
 ### About/Me
-Hello, I'm Nyuro (*Also om-prod*), a **Bachelor's of Science in Information Technology Student**, wherein I regret the course I took and should've went/took to Bachelor's of Science in Computer Science. I have **~4 years of programming experience** (*Most of the time I stopped so it's an approximate year*).
+Hello, I'm Nyuro (*Also om-prod*), a **Bachelor's of Science in Information Technology Student**, wherein I regret the course I took and should've went/took to **Bachelor's of Science in Computer Science**. I have **~4 years of programming experience** (*Most of the time I stopped so it's an approximate year*).
 
 ### Programming Languages
 - __Python__ (*2023-present*), my most used.
