@@ -1,44 +1,64 @@
 ### About/Me
-Hello, I'm Nyuro (*Also om-prod*), a freshmen **BSIT Student** that has **~4 years of programming experience** (*Most of the time, I stopped so it's an approximate year*).
-I like creating systems now, rather than before which was games -- though I still make games but they're the simplest of them all; Also, learning a spoken language
-rather than programming language which is **Japanese**.. though by the time I'm writing this, my Japanese may not be that good yet -- I'll see in the next years to come.
+Hello, I'm Nyuro (*Also om-prod*), a **Bachelor's of Science in Information Technology Student** freshmen, wherein I regret the course I took and should've went/took to Bachelor's of Science in Computer Science. I have **~4 years of programming experience** (*Most of the time I stopped so it's an approximate year*).
 
 ### Programming Languages
-- __Python__ (*2023-present*); total amateur.
-- __Java__ (*2024-2024*); it was for high-school.
-- __C++__ (*Just Started*); on the process of learning it for college.
+- __Python__ (*2023-present*), my most used.
+- __Java__ (*2024-2024*), only for high-school and a bit of game creation with GUIs.
+- __C++__ (*Just Started*), on the process of learning it for college.
+
+### To learn list (Programming Languages)
+- __Rust__ since they said it was fast but has to be written accurately; no assumptions.
+- __C__ for low level, I desire for LOW LEVEL!!!!
+- __Web-boys (HTML -- JS -- CSS)__ for times I would need to create a site.
+- __Assembly -- x86 Arch__ for no reason.
 
 ```
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⡤⣦⣤⡴⣲⣖⠶⡴⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⢻⣻⣝⡮⢷⣳⢮⣗⢯⣞⣻⣽⣶⣛⢿⣲⢦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⢶⢯⣳⡭⣟⡶⣝⡾⣻⢼⡳⣞⢯⡞⣵⣻⠾⣭⢷⣟⣮⢗⣻⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡾⣯⢞⡽⣞⢷⣻⡝⣞⣧⢿⣱⢯⣳⢯⣳⢯⣳⡭⣟⣭⢿⣻⢿⣭⣛⣮⢟⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡤⠔⢚⣭⡺⣝⣳⡽⢾⣽⢻⣄⢷⣏⡿⣽⢾⣹⡞⣵⡻⣼⡳⢧⣟⢮⣳⢯⡽⣻⣖⣻⡼⣫⣞⣵⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠖⠋⠀⢠⣴⢻⣖⣻⣭⢷⣻⣟⢮⣟⣼⠜⢤⣿⢯⣳⢧⣟⣳⢿⣱⣿⣻⢼⣫⢗⡯⡾⣽⡞⣵⣏⢷⡞⣵⣳⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠊⠀⠀⢀⣼⢻⡼⣳⡽⣶⣻⢿⣟⢮⣻⠎⠁⠀⢸⡟⣮⢗⡯⣞⠿⣏⡷⣻⣯⡗⣯⢾⣹⡽⣞⣿⢳⡞⣯⢞⣳⡽⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠀⠀⢀⡼⣇⣿⢣⣟⣿⣟⣻⣿⣜⡿⠃⠀⠀⠀⣿⢻⣇⡿⣻⣼⠃⣟⣧⢟⣧⢿⣣⢟⣧⢻⣿⢟⣧⠿⣜⡿⣣⠿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣻⡼⣣⣿⣛⢾⣼⣿⡷⡞⠀⠀⠀⠀⠀⣾⣏⡾⣵⣛⡎⠀⠹⣞⢯⣻⢾⣱⡟⣮⢟⡼⣿⣺⡝⣯⢞⡽⣛⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠁⢳⣽⣛⣶⣿⣿⣿⣿⡟⠀⠀⣠⣤⡀⠈⡏⣽⡞⣵⣻⠀⠀⠀⠸⣯⡽⣟⡶⣫⢷⣫⢟⣿⣱⢯⣳⢏⡿⣹⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⢠⡞⣧⣿⣿⣿⣿⣿⣿⡇⢠⡞⢠⣖⢓⠉⠀⠘⡽⣧⢿⠀⠠⠀⠀⢸⣳⣯⢗⣯⣳⣯⠾⣽⣫⣞⡷⢯⣝⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⢀⢀⡁⡆⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⡇⠘⠂⣿⣿⡟⠀⠀⠀⠙⣞⣏⢠⢚⣛⡻⣆⠳⣯⡟⡶⣽⣷⡻⣽⣳⡾⣽⢫⡾⣯⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⡰⠨⠀⡞⠈⠁⠀⠀⠀⠀⣸⣿⣿⣿⡿⠛⠋⣱⣿⣿⡇⠀⠁⠿⠟⠀⠀⠀⠀⠀⠈⠹⣰⣿⣿⠈⡞⡇⣝⡾⡽⣽⣷⡻⣽⢿⡝⣾⣹⣽⣳⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠄⡄⣤⠙⠀⡆⠀⠀⠀⠀⠉⣼⣿⠟⠁⠀⢰⣿⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⡿⢁⢇⣿⢺⣝⣿⣿⣽⢋⣟⡞⣧⠷⣏⣷⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠨⢁⠂⠀⡀⠁⠀⠀⠀⠀⠀⣻⠏⠀⠀⠀⠀⠻⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠿⠟⠁⢠⣿⡝⣧⣿⣻⠾⠇⢨⣞⡽⣣⣟⡿⢾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠠⠀⠀⠀⠠⢢⡀⠀⠀⠀⠀⠸⠀⠀⠀⠀⠀⢸⡟⣽⣷⣄⠀⠀⠀⢠⣀⡀⢀⠀⠀⠀⠀⠀⢀⣴⡿⣿⡾⢿⡼⢃⢃⣴⢻⣜⢷⣻⣼⣟⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⢀⠀⠀⣡⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣸⣿⣿⣿⣷⣄⠀⠸⣯⢝⣻⠀⠀⠀⣠⣖⡟⣮⢿⣏⣿⣿⢷⣏⠿⣜⡯⣞⢯⡷⡞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⢀⡁⢁⣼⣿⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣧⡀⠁⠉⠁⠀⣠⡟⣷⢺⣝⣯⣷⣻⣛⣮⢷⣺⣻⡝⡾⣭⢿⠝⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⢸⣷⣾⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⢀⣤⣾⣿⣿⣿⣿⣿⣿⣿⠋⢲⠒⢂⣿⢳⣯⡽⠗⣺⢷⣣⢷⣫⣾⣷⣟⣧⠿⠙⠁⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠
-⠐⢿⣿⣿⣿⣿⣿⣿⣿⣦⣤⠀⠀⠀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⠿⢡⣤⣂⠒⠟⠚⠉⠀⢀⡰⣯⣳⣿⣿⣿⣿⣿⣾⣿⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢄⡎⣿⣟
-⠀⠀⠙⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⠛⢠⣴⢧⡙⡟⡀⠀⠀⠂⢈⣤⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠀⢀⡠⣠⣦⣾⣻⣿⡇⢸⢻
-⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢰⠟⡎⡄⢃⢸⠰⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⡀⣠⣴⡵⣿⣷⡿⣿⣿⣽⢿⣧⠸⡏
-⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢿⣿⠧⢾⣼⠸⠀⢸⠀⣇⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⣻⣯⠺⣾⣽⣿⣿⣽⣿⣿⣯⡿⣿⣿⡿⡀⣷
-⠀⠀⠀⠀⠀⠈⢻⣿⣿⣿⣿⣿⣿⣿⣿⡟⠛⠁⠀⡟⢡⣾⣿⠁⡇⡇⡎⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢫⡏⢲⣯⠉⢨⠀⢸⣿⣿⣽⣿⣿⣽⣿⣿⣽⣿⣿⣷⡟
-⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⡿⠿⠋⠉⠀⢀⣠⣴⡵⠿⣿⣿⢘⢹⣈⣰⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣻⣯⣷⠟⠙⠀⣼⠋⠀⠇⠀⢰⣿⣿⣷⣻⣿⣷⣿⡷⠿⠛⠉⠁⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠈⠋⠁⠀⠀⠀⠀⡴⣿⠟⢿⣿⣶⡀⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⣿⣿⣻⠋⣟⣿⣟⠇⠂⠰⡇⠀⢈⠀⠀⢸⣷⣿⠷⠟⠛⠉⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣶⣾⣝⣼⣿⣿⣿⠆⢹⣿⣯⣽⣿⣿⣯⣿⣾⠉⣿⣿⣿⡀⢸⣿⠏⢀⡇⠀⡁⠀⠈⠆⠀⠈⠣⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⣠⣾⣿⣿⣾⣿⣿⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣼⣿⣿⣿⣯⢿⣿⣿⣯⡀⠿⣿⣯⣷⣾⣿⣄⡀⠙⠀⠃⠀⠀⠀⠀⠀⡠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⣾⣿⣿⣿⡿⣟⠻⡛⢿⣿⡟⣉⠙⣿⣿⣿⣿⣿⢻⣿⢸⣿⣿⣿⠸⣿⣻⣿⣿⣿⣿⣯⣷⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⢀⣿⣿⣿⠏⠒⢀⠤⡴⠀⠈⡇⢒⣶⣿⣯⣿⣸⣿⢸⡿⣌⣿⣼⣿⢿⣿⣯⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠄⠀⠀⠀⠀⠀⣺⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⢸⣿⣿⢇⣘⠧⣟⠁⢴⡃⠕⢧⠐⡛⣿⡟⣿⣯⣿⣷⣽⣿⣽⣾⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⢹⣿⣿⣇⠀⠂⠀⠀⠔⣠⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⣿⣿⣿⢹⠿⣧⢗⠀⠟⡇⠂⢸⡀⢶⢳⠿⠛⣽⢫⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠈⣿⣿⣿⣷⣶⣶⣶⣾⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+##&&#&&&&&&&&&&&&#GYYYYYJYJJJJ?JJJ?JJJJJ7?JJJJJJJJJJJJJ77J??JJJJJJJJ???????????????????????JG##BBB#B
+&&##&&&&&&&&&&&&B5YYYYYYJYYYJJYYYJYYJYJJJYYYJJJJJJJJJJ~~!^!JJJJJJJJJJJJJJ????????????????????5B##B#B
+&&&&&&&&&&&&&&&GYYYYYYYYYYYYYYJYYYYYYYYYYYYYYYYYJJJJ?^:::^?J??JJJJJJJJJJJJJJJJ????????????????JG###B
+#&&#&#&&&##&&#PYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYJJY?^:^^:^!!!?JJJJJJJJJJJJJJJJJJJ????????????JJJP###
+#&&&&B#&&#B&#5YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYJYJ!^!J!^!?JJJJJJJJJJJJYYJJJJJJJJJJJ??????????JJJP##
+&&&&#BB##BBG5YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYJJJYY?JYYJJJJJJJJJJJYJJJJYJJJJJJJJJJJJJJJJJJJJJJP#
+&&&&#BBBBBGYYYYYYYYYYYYYYYYYYYY5YYYYYY5YYYYYYYYJYYYYYYYYYYYYYYYYYYJJJY?7JJYYJJJJY5PPGGPYJJJJJJJJJJJG
+&&&&#BBBBPYYYYYYYYYYYY55YYYYY5GP5YYYYYYYYYYYYJ?JYYYYYYYYYYYYYYYYYYYJY??JJYYYYYPB#&&&&#5JJJJJJJJJJJJY
+&&&&###BPYYYYYYYYYYY5P5YYYYYPGG5YYYJYYYYYYYY?!7YYY5YYYYYYYYYYYYYYYYYYJYY5YYYP#&&&&&&&GJJJJJJJJJJJJJJ
+&&&&##&GYYYYYYYYYYY5PYYYYYYP5P5YY?~!YJYYYYJ7!!YYYPYYYYYYYYYYYYYYYYYYYYYP5YY5GGP55P#&&BYJJJJJJJJJJJJJ
+&&&&##BYYYYYYYYYYYPPYYYYYYJ~^PY7^.:?YYYY?~:.:?55G5YYYYYYYYYYYYYYYYYYY5GG5YYYYYYYYY5###BG5JJJJJJJYYJY
+&&&&&B5YYYYYYYYY5GGYYYYYJ~:!5G!...^YJJJ~:...^JYGPYYYYYYYYYYYYYYYY5PY5GGPYYYYYYYYYYY5YB&&#P5YYY5PBPJY
+PPPPG5YYYYYYYYY5GG5YYYYJ^.:^!PBPJ!!YJJ^.....!YPG5YYYYYYYYYYYYY5PGG55GGG5YYYYYYYYYYYYY5P5B&&####&&5YJ
+YYYYYYYYYYYYYY5GG5YYYYJ^.:::YBP5PGGGG?~^:::.?PGG5YYPYYYYYYYY5PGGPY?JGGPYYYYYYYYYYYYYYYYY5PG#&&&&P~?~
+YYYYYYYYYYYYY5GGPYYYYJ^.::.?BY???JY5PPGPJ7~^5GGG55GGYYYYY5PGGGBPJ7?YGGYYYYYYYYYYYYYYYYYYYYYG&&&5^^^^
+5PG5YY55YYYY5GGGYYYYJ~:::::5P^~~~~!7JYB5!??^PGGGGGGPYY5PPP5GG57^::7PBP5YYYYYYYYYYYYYYYYYYYYB#G57:^^^
+GGPYY5PYYYY5GGG5YYJY!:::::^JY?7!~~^~?GJ:...:Y!JGGGGGPGG5?JP5!:..::!PPYY5P5YYYYYYYYYYYYYYYY5PYYY7!J7^
+GG5Y5G5YYY5GGGPYYYY!^^^:^^:::~!7???5Y~......:.?GGGGP5J!~7J!:.....:?GYYYYY5YYY5YY5YYYYYYYYYYYYYYJY577
+GPY5GG5YY5GGGG5YYY7^^^^^^^^::::::^!7:.........7P5Y?!^:.^^^^:::...:YPJYJ?JYYYPPYP5YYYYYYYYYYYYYYYYY?B
+B5YPGPYYYGGGGGYJYJ^^::::::::::::..............:~^:......:?YJ7~:..^5YY?^!JYYJ5PPPYYYYYYYYYYYYYYYYYYB@
+GY5GGPYYPGGGGPYYY!:::::::::::.............................:5#G5J!?YJ!:.7YY??PGPYYYYYYYYYYYYYYYYY5#@&
+PYPGGPY5GGGGG5YY?^.:::::..:..............................:5B5Y5PGGBY~::JJ~!JG5YYYYYYYYYYYYYYYYY5#@@@
+5YGPG55GGGGGGYYGP^.........................:.............YG777?JY55PBGY5^:755YYYYYYYYYYYYYYYYYP&@@@&
+YYP5GPPGGGGBGYPB#~......................................~G?^~~~~!?Y5#J:~:~JYYYYYYYYYYYYYYYYYYG&@@@@@
+Y5Y5GGGGGGGBP5GG#5:.....................................:!7?7!~~~!5GJ:..:JYYYYYYYYYYYYYYYYY5B@@@@@@@
+Y5Y5GGGGGGGGPGGG##Y:...........:7!:.......................::~!77J5?^...~JYJYYYYYYYY55YYYYYPB&###&&@@
+5YY5GGBGBGGGPGGG###5^.........^5P5Y?!^.................::::::::^~^::::7YYYYYYYYYYY55YYYYYG######&&@@
+5YY5BGGGBBBGGBBB####G!........!?!!!7???7~:............:::::::^^:::::~JYYYYYYYYYY5P5YYYY5B###########
+YYYG#BGBBGBBBGGB######J:......:!~~~~~~!7JYY77:........:::::::^^^^^~?YYYYYYYYYY5PPYYYY5G#############
+YYPBBBGBBBBBBBBB#######P~......:~~~~~~~~~?5G?..........:::::::^^^7JYJYYYYYYYYPGG5YYYP#&&&&######&&&&
+Y5BBB#BBBBBBBBBB#######P?!:......:^^~~~~!77~............::::::^!JYYYYYYYYYYPGGPYYY5G########&&&&&&&&
+YGBBBB#BBBBBBBBB######G?777~:........:::::.................:^!JYYYYYYYYY5PGGGPYYYYY5B&&&&&&&&&&&&&&&
+5GBBBBBBBBBBBBBB######BY77777^...........................^!7JYYYYYYYYY5PGGGGPYYYYYYYYP#&&&&&&&&&&&&&
+JJJJJYYY555YPGGGB#######P?7777!~^^::::::............:^!?5BB5YYYYYYYY5PGGGGG5Y5GPYYYY555B&&&&&&&&&&&&
+77777777???5GGGGGGBB#####Y77777777777777J55YYYYYYY5PPB##B5YYYYYYYY5PGGGGGP55GGP55YYYP&&#&&&&&&&&&&&&
+7777777?7?PGGGGGGGGB####P?777777777777JG######&&&#####B5YYYYYYYY5PGBBBBGPPGBGGGYYYYYG&&&&&&&&&&&&&&&
+777777?7?PGGGGGGGGB###BP?777777JGGGGPP##############B5YYYYYYYYPGBBBBBBG5P#BBBGGGYYY5#&&&&&&&&&&&&&&&
+77777?7JPGGGGGGGGPPB#BP?777777YB#####&####&#######G5YYYYYYY5PGGBBBBGGP5YP&&#&#BGPYYB&&&&&&&&&&&&&&&&
+7777?7JPGGGGGGGPPPPBBGGY777??5GB###############BP55YYYYY5PGBBBBBGBGP5YYYP&&&&&&#B5G&&&&&&&&&&&&&&&&#
+777?7JPGGGGBBBPPPPPGGGGY?YPPGGG##BGGBBBBB####BGPGG5YY5PGGBBBBBBBBBYYYYYYG&&&&&&&&#&&&&&&&&&&&&#&&###
+77?7JPGGGBBBBBGPPPPPGGGYPGGGGGGBBGGGGGGGB####B##G55PGBBBBBBBBB###5YYYYYYB&&&&&&&&&&&&&&&&&&&&&###&##
+7?7?P55YPGGGGGGGPPPPGGGGGGGGPPPPGGGGGGGGB#B###BBGGBBBBBBBBB#####GYYYJ!JYB&&&&&&&&&&&&&&&&&&&&#######
+7?7??77JPGGGGGGGPPPPGGGGPPPPPPPPGGGGGGGPJPBB##BBBBBBBBBBB######BYYYY!^J5##&&&&&&&&&&&&&&&###########
+?77777?PPGGGGGGP5P5PPPPPPPPPPPGGGGGGGGG?7JJGBBBBBBBGBBBBB######PYYYJ^!Y5###&&&&&&&&#################
+777777YPPPGGGGP55555555PGGGGGGB#GGGGGGJ7??77YGGGGGBBBBBB######PYYYYJ7JYP############################
+77777JPPPPPGPGP5555555PGGGGGGGG#GGGGGY7??7777?5GGGGGBBBBBB##BBYYYYYJYYYG############################
+777775PPGPPPPP555555PPGGGGGGGGGBGGGGY7??7777777JPGGGGBBBBBBBB5YYYYYYYYYB############################
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
