@@ -4,8 +4,8 @@ Hello, I'm Nyuro (*Also om-prod*), a **Bachelor's of Science in Information Tech
 ### Programming Languages
 - __Python__ (*2023-present*), my most used.
 - __Java__ (*2024-2024*), only for high-school and a bit of game creation with GUIs.
-- __C++__ (*Just Started*), on the process of learning it for college.
-
+- __C++__ (*2026*), on the process of learning it for college.
+- __Bash__ (*2026*), got into it with bash-config scripting; creating aliases/shortcuts.
 ### To learn list (Programming Languages)
 - __Rust__ since they said it was fast but has to be written accurately; no assumptions.
 - __C__ for low level, I desire for LOW LEVEL!!!!
