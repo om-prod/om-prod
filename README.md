@@ -12,5 +12,5 @@ Hello, I'm a **Bachelor's of Science in Information Technology Student**, wherei
 - __Web-boys (HTML -- JS -- CSS)__ for times I would need to create a site.
 - __Assembly -- x86 Arch__ for no reason.
 
-![til](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmEvo1U3t_f2tmR-ttq8Zcxk4PB9eKOAcQsgQResViwA&s=10)
+![til](https://media1.tenor.com/m/elqcQ0-Um40AAAAd/strawberry-marshmallow-ichigo-mashimaro)
 
