@@ -5,7 +5,7 @@ Hello, I'm a **Bachelor's of Science in Information Technology Student**, wherei
 - __Python__ (*2023-present*), my most used.
 - __Java__ (*2024-2024*), only for high-school and a bit of game creation with GUIs.
 - __C++__ (*2026*), on the process of learning it for college.
-- __Bash__ (*2026*), got into it with bash-config scripting; creating aliases/shortcuts.
+- __Bash__ (*2026*), got into it with bash-config scripting.
 ### To learn list (Programming Languages)
 - __Rust__ since they said it was fast but has to be written accurately; no assumptions.
 - __C__ for low level, I desire for LOW LEVEL!!!!
