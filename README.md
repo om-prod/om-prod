@@ -1,6 +1,8 @@
 ### About/Me
-Hello, I'm a **Bachelor's of Science in Information Technology Student**, though I regret the course I took since I should've went/took **Bachelor's of Science in Computer Science**. I have **~4 years of programming experience** (*Most of the time I stopped so it's an approximate year*).
+Hello, I'm a **Bachelor's of Science in Information Technology Student**, though I regret the course I took since I should've went/took **Bachelor's of Science in 
+Computer Science**. I have **~4 years of programming experience** (*Most of the time I stopped so it's an approximate year*).
 
+[![image](https://cdn.myanimelist.net/signature/neurodae.png)](https://myanimelist.net/animelist/neurodae&sclick=1)
 ### Programming Languages
 - __Python__ (*2023-present*), my most used.
 - __Java__ (*2024-2024*), only for high-school and a bit of game creation with GUIs.
